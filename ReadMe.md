@@ -1,4 +1,4 @@
-# Hi, I'm Suryaprakash Pati 👋
+# Hi, I'm Suryaprakash Pati
 
 ### Data Analyst | Business Insights | Dashboards & Machine Learning
 
@@ -36,11 +36,3 @@ All projects live in [Data-Science-Projects](https://github.com/Surya-Pati/Data-
 - Tata – GenAI Powered Data Analytics Job Simulation (Forage)
 - Deloitte Australia – Data Analytics Job Simulation (Forage)
 - Python for Data Science – IIT Madras (NPTEL)
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya-Pati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub streak](https://nirzak-streak-stats.vercel.app/?user=Surya-Pati&theme=dark&hide_border=false)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Pati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
